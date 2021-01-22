@@ -7,7 +7,6 @@ function kilometerToMeter(Kilometer){
     return total;
 }
 var meters = kilometerToMeter(20);
-console.log(meters);
 
 
 //Problem-2
@@ -46,7 +45,7 @@ var result = hotelCost(10);
 
 //Problem-4
 
-function megaFriend([a, b, c, d]){
+function megaFriend(arra]){
     var friend = arguments[0];
     for (i = 0; i < arguments.length; i++){
         if (arguments[i].length > friend.length){
