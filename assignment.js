@@ -45,7 +45,7 @@ var result = hotelCost(10);
 
 //Problem-4
 
-function megaFriend(arra]){
+function megaFriend(a, b, c, d){
     var friend = arguments[0];
     for (i = 0; i < arguments.length; i++){
         if (arguments[i].length > friend.length){
