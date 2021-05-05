@@ -1,1 +1,1 @@
-# 3rd-Assignment
+# Practicing JavaScript 
